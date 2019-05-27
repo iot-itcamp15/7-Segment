@@ -9,4 +9,5 @@
 
 ## ตัวอย่างการต่อ
   น้องๆสามารถดูรูปนี้แล้วทำตามได้เลยครับ อย่าลืมลองโหลดโค๊ดมารันด้วย
+![4](https://github.com/iot-itcamp15/7-Segment/blob/master/4.PNG)
 ![2](https://github.com/iot-itcamp15/7-Segment/blob/master/2.jpg)
