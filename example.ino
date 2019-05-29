@@ -91,19 +91,5 @@ void loop() {
     digitalWrite(G, HIGH);
   }
 
-  // เมื่อเรากำหนดค่า value = 5 ผลลัพธ์ที่ได้จะแสดงไฟบน 7-Segment คือเลข 5
-  else if() {
-    //Code here
-  }
-  // เมื่อเรากำหนดค่า value = 6 ผลลัพธ์ที่ได้จะแสดงไฟบน 7-Segment คือเลข 6
-    //Code here
-
-  // เมื่อเรากำหนดค่า value = 7 ผลลัพธ์ที่ได้จะแสดงไฟบน 7-Segment คือเลข 7
-    //Code here
-
-  // เมื่อเรากำหนดค่า value = 8 ผลลัพธ์ที่ได้จะแสดงไฟบน 7-Segment คือเลข 8
-    //Code here
-
- // เมื่อเรากำหนดค่า value = 9 ผลลัพธ์ที่ได้จะแสดงไฟบน 7-Segment คือเลข 9
-    //Code here
+  //Code here
 }
